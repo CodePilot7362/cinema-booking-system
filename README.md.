@@ -1,0 +1,29 @@
+# Cinema Booking System
+
+A web-based cinema seat reservation system developed as part of my second-year Computer Science university coursework.
+
+## Technologies Used
+- PHP
+- MySQL / MariaDB
+- HTML & CSS
+- XAMPP
+- phpMyAdmin
+
+## Features
+- User registration and login
+- Session management
+- Movie and seat selection
+- Cinema booking functionality
+- Admin booking approval
+- Database integration
+
+## Installation
+1. Install XAMPP.
+2. Copy the project files to `C:\xampp\htdocs\resit`.
+3. Start Apache and MySQL.
+4. Open `http://localhost/phpmyadmin`.
+5. Create a database named `resit_db` and import `resit_db.sql`.
+6. Open `http://localhost/resit/login.php`.
+
+## About
+This is an academic project created during my second year of undergraduate Computer Science studies. It is intended for educational purposes, not production use.
